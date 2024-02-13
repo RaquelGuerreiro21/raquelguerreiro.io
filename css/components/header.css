@@ -11,6 +11,10 @@ header .header__left{
     flex: 1;
 }
 
+header .header__left h1 {
+    font-size: 4rem;
+}
+
 header .header__left p{
     margin-top: 2rem;
     margin-bottom: 4rem;

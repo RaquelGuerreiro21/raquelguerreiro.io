@@ -6,6 +6,12 @@
     z-index: 10;
     background-color: var(--white);
   }
+
+  .img{
+    display: inline-block;
+    justify-content: space-between;
+    color: black;
+  }
   
   .navbar .navbar__content {
     padding: 3rem 4rem 1rem;
